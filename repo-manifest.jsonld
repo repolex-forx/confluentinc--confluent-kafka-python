@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/confluentinc/confluent-kafka-python/commit/47d124053c0cbe96537ecc77ce834b920ba5c689",
       "git:hexsha": "47d124053c0cbe96537ecc77ce834b920ba5c689",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/confluentinc/confluent-kafka-python/commit/afea37aed1c77e929a1d8b6c068b4665bbd1e54a",
