@@ -1,0 +1,11 @@
+{
+  "org": "confluentinc",
+  "repo": "confluent-kafka-python",
+  "versions": [
+    {
+      "commit": "47d124053c0cbe96537ecc77ce834b920ba5c689",
+      "tag": "",
+      "parsed_at": "2026-10-17T00:40:34.757795+00:00"
+    }
+  ]
+}
